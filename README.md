@@ -1,6 +1,6 @@
 ## Welcome to our Github!
 ```
-**Git hub**
-**Telegram**
-**Youtube**
+Git hub
+Telegram
+Youtube
 ```
